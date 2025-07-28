@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-28T21:17:20.615256"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Antipasto",
+            "importance_rank": 1,
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Kachumbari",
+            "importance_rank": 2,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Freekeh Salad",
+            "importance_rank": 3,
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Ingredients :",
+            "importance_rank": 4,
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Ingredients :",
+            "importance_rank": 5,
+            "page_number": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "Add potatoes and cauliflower, stir to coat with spices . Cover and cook until vegetables are tender, stirring occasionally . Add salt to taste and serve . Heat olive oil in a pan and brown meatballs on all sides .",
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "1 small onion o 1 cucumber o 1/4 cup cilantro, lemon juice, and salt . Serve chilled . o 2 cups flour o 1/2 cup milk o 3 eggs, 1 teaspoon salt, 1 cup grated cheese . Sauté sliced onion in butter until golden .",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o 1/4 cup olive oil o Rosemary o Sea salt o Dissolve yeast and sugar in warm water, let sit until foamy . Knead until smooth, then let rise until doubled . Bake at 400°F (200°C) for 20-25 minutes until golden .",
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "Soak black-eyed peas overnight, then peel and rinse . Blend mixture with diced onion, minced garlic, and salt until smooth . Drain on paper towels and serve warm .  o 1 block tofu o 1/4 cup cornstarch o 1/2 cup dashi broth o 2 tablespoons soy sauce .",
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "Heat oil in a pan. o Pipe dough into hot oil and fry until golden . Drain on paper towels and roll in mixture of sugar and cinnamon . Sauté shredded coconut until lightly browned. Add rice, coconut milk, water, and salt .",
+            "page_number": 1
+        }
+    ]
+}
